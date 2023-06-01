@@ -1,4 +1,4 @@
-## What we are trying to accomplish
+## Goal
 
 We are striving to create a **Non-Playable Character Race** which are artificially sentient, hence Project NPCR.
 
