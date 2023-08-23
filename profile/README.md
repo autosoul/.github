@@ -1,6 +1,6 @@
 ## Goal
 
-We are striving to create a **Non-Playable Character Race** which are artificially sentient, hence Project NPCR.
+We are striving to create a **Non-Player Character Race** which are artificially sentient, hence Project NPCR.
 
 We are working on changing the way NPCs interact with their environment by enriching their interpretation of data. In doing so, they will view the world in almost the same ways we do, and act accordingly to achieve goals they set for themselves.
 
