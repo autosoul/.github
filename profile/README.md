@@ -1,3 +1,5 @@
+<img width="" src="./isaura.png" alt="isaura" />
+
 ## Goal
 
 We are striving to create a **Non-Player Character Race** which are artificially sentient, hence Project NPCR.
