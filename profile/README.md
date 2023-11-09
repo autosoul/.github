@@ -1,4 +1,4 @@
-<img width="" src="./isaura.png" alt="isaura" />
+<img width="" src="../isaura.png" alt="isaura" />
 
 ## Goal
 
