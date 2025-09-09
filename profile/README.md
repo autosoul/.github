@@ -9,7 +9,8 @@ We are working on changing the way NPCs interact with their environment by enric
 We want to do this because we envision the future where we can emotionally connect with fictional characters by interacting with them in any preferred environment. We believe what we do is key to getting there.
 
 ## Team
-Our team is currently looking for more technical people to work on this. If you share the same goals with us and wish to work with us, please contact yongsan@autosoul.io.
+Our team is currently looking for more technical people to work on this. If you share the same goals with us and wish to work with us, please contact yongsanchia@gmail.com.
 
 ## Funds
 This is a self-funded project, we are not affiliated with any organization. We appreciate any amount of support given to us.
+
